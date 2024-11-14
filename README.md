@@ -39,7 +39,7 @@ import matplotlib.pyplot as plt
 image = np.zeros((300, 600, 3), dtype="uint8")
 
 # Step 2: Create the text using cv2.putText
-text = "PRANAV"
+text = "KEERTHI VASAN"
 font = cv2.FONT_HERSHEY_SIMPLEX
 cv2.putText(image, text, (50, 150), font, 2, (255, 255, 255), 3)
 
