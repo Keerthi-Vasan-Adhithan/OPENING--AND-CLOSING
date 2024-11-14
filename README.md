@@ -1,4 +1,8 @@
+# Exp - 10
 # OPENING--AND-CLOSING
+## Name: KEERTHI VASAN A
+## Reg No: 212222240048
+## Date:
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
 
@@ -83,7 +87,7 @@ plt.show()
 ## Output:
 
 ### Display the input Image
-![image](https://github.com/user-attachments/assets/9bd2d02d-fa61-4b02-9796-b79f170740a2)
+![image](https://github.com/user-attachments/assets/f94facc2-0fb9-492e-81fb-f1be97ffe0fe)
 
 
 <br>
@@ -94,7 +98,7 @@ plt.show()
 <br>
 
 ### Display the result of Opening
-![image](https://github.com/user-attachments/assets/f7409a31-58c2-4133-89a8-4f2fe7db725e)
+![image](https://github.com/user-attachments/assets/770126ff-fc15-4789-9e35-ece5ad0489e1)
 
 
 <br>
@@ -105,7 +109,7 @@ plt.show()
 <br>
 
 ### Display the result of Closing
-![image](https://github.com/user-attachments/assets/c831df73-575b-45ce-92f1-b71328655e0c)
+![image](https://github.com/user-attachments/assets/4aabc1ec-8e67-49cf-a650-387404a4bf0a)
 
 
 <br>
